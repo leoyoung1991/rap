@@ -1,0 +1,70 @@
+INFO:root:ERROR 909 : SQL insert into rap_word163 (`word`, `count`, `pinyin`, `rhyme`, `status`)values(%s,%s,%s,%s,%s)
+INFO:root:ERROR 909 : SQL insert into rap_word163 (`word`, `count`, `pinyin`, `rhyme`, `status`)values(%s,%s,%s,%s,%s)
+INFO:root:Error 901 : (2006, 'MySQL server has gone away')
+DEBUG:jieba:Loading model from cache /var/folders/4n/mrb718zj1dgb15ngvy0x4lt00000gn/T/jieba.cache
+DEBUG:jieba:Loading model cost 0.448 seconds.
+DEBUG:jieba:Prefix dict has been built succesfully.
+INFO:root:Error 901 : (2006, 'MySQL server has gone away')
+INFO:root:Error 901 : [Errno 35] Resource temporarily unavailable
+INFO:root:Error 901 : [Errno 35] Resource temporarily unavailable
+INFO:root:Error 901 : [Errno 35] Resource temporarily unavailable
+INFO:root:Error 901 : [Errno 35] Resource temporarily unavailable
+INFO:root:Error 901 : [Errno 35] Resource temporarily unavailable
+INFO:root:Error 901 : [Errno 35] Resource temporarily unavailable
+INFO:root:Error 901 : [Errno 35] Resource temporarily unavailable
+INFO:root:Error 901 : [Errno 35] Resource temporarily unavailable
+INFO:root:Error 901 : [Errno 35] Resource temporarily unavailable
+INFO:root:Error 901 : [Errno 35] Resource temporarily unavailable
+INFO:root:Error 901 : [Errno 35] Resource temporarily unavailable
+INFO:root:Error 901 : [Errno 35] Resource temporarily unavailable
+INFO:root:Error 901 : [Errno 35] Resource temporarily unavailable
+INFO:root:Error 901 : [Errno 35] Resource temporarily unavailable
+INFO:root:Error 901 : [Errno 35] Resource temporarily unavailable
+INFO:root:Error 901 : [Errno 35] Resource temporarily unavailable
+INFO:root:Error 901 : [Errno 35] Resource temporarily unavailable
+INFO:root:Error 901 : [Errno 35] Resource temporarily unavailable
+INFO:root:Error 901 : [Errno 35] Resource temporarily unavailable
+INFO:root:Error 901 : [Errno 35] Resource temporarily unavailable
+INFO:root:Error 901 : [Errno 35] Resource temporarily unavailable
+INFO:root:Error 901 : [Errno 35] Resource temporarily unavailable
+INFO:root:Error 901 : [Errno 35] Resource temporarily unavailable
+INFO:root:Error 901 : [Errno 35] Resource temporarily unavailable
+INFO:root:Error 901 : [Errno 35] Resource temporarily unavailable
+INFO:root:Error 901 : Error 61 connecting to 127.0.0.1:6379. Connection refused.
+INFO:root:Error 901 : Error 61 connecting to 127.0.0.1:6379. Connection refused.
+INFO:root:Error 901 : (2006, 'MySQL server has gone away')
+INFO:root:Error 901 : (2006, 'MySQL server has gone away')
+INFO:root:Error 901 : (2006, 'MySQL server has gone away')
+INFO:root:Error 901 : (2006, 'MySQL server has gone away')
+INFO:root:Error 901 : [Errno 35] Resource temporarily unavailable
+INFO:root:Error 901 : [Errno 35] Resource temporarily unavailable
+INFO:root:Error 901 : [Errno 35] Resource temporarily unavailable
+INFO:root:Error 901 : [Errno 35] Resource temporarily unavailable
+INFO:root:Error 901 : [Errno 35] Resource temporarily unavailable
+INFO:root:Error 901 : [Errno 35] Resource temporarily unavailable
+INFO:root:Error 901 : [Errno 35] Resource temporarily unavailable
+INFO:root:Error 901 : [Errno 35] Resource temporarily unavailable
+INFO:root:Error 901 : [Errno 35] Resource temporarily unavailable
+INFO:root:Error 901 : [Errno 35] Resource temporarily unavailable
+INFO:root:Error 901 : [Errno 35] Resource temporarily unavailable
+INFO:root:Error 901 : [Errno 35] Resource temporarily unavailable
+INFO:root:Error 901 : [Errno 35] Resource temporarily unavailable
+INFO:root:Error 901 : [Errno 35] Resource temporarily unavailable
+INFO:root:Error 901 : [Errno 35] Resource temporarily unavailable
+INFO:root:Error 901 : [Errno 35] Resource temporarily unavailable
+INFO:root:Error 901 : [Errno 35] Resource temporarily unavailable
+INFO:root:Error 901 : [Errno 35] Resource temporarily unavailable
+INFO:root:Error 901 : [Errno 35] Resource temporarily unavailable
+INFO:root:Error 901 : [Errno 35] Resource temporarily unavailable
+INFO:root:Error 901 : [Errno 35] Resource temporarily unavailable
+INFO:root:Error 901 : [Errno 35] Resource temporarily unavailable
+INFO:root:Error 901 : [Errno 35] Resource temporarily unavailable
+INFO:root:Error 901 : [Errno 35] Resource temporarily unavailable
+INFO:root:Error 901 : [Errno 35] Resource temporarily unavailable
+INFO:root:Error 901 : [Errno 35] Resource temporarily unavailable
+INFO:root:Error 901 : [Errno 35] Resource temporarily unavailable
+INFO:root:Error 901 : [Errno 35] Resource temporarily unavailable
+INFO:root:Error 901 : [Errno 35] Resource temporarily unavailable
+INFO:root:Error 901 : [Errno 35] Resource temporarily unavailable
+INFO:root:Error 901 : [Errno 35] Resource temporarily unavailable
+INFO:root:Error 901 : [Errno 35] Resource temporarily unavailable
